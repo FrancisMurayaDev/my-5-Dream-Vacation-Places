@@ -1,0 +1,33 @@
+body{
+  background-color: aliceblue;
+}
+figure{
+  display: inline-block;
+  gap: 1px;
+}
+img{
+  height: 200px;
+}
+.news-letter{
+  margin-left: 30px;
+  margin-bottom: 20px;
+}
+footer{
+  text-align: center;
+}
+h1{
+  text-align: center;
+}
+h2{text-align: center;}
+input{
+  cursor: pointer;
+}
+button{
+  margin-top: 20px;
+  margin-left: 40px;
+  color: white;
+  font-size: 20px;
+  border-radius: 10px;
+  border: none;
+  background-color: grey;
+}
