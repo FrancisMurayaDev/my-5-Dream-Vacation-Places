@@ -1,6 +1,9 @@
 body{
   background-color: aliceblue;
 }
+p{
+  text-indent: 20px;
+}
 figure{
   display: inline-block;
   gap: 1px;
@@ -17,6 +20,7 @@ footer{
 }
 h1{
   text-align: center;
+  text-decoration: underline;
 }
 h2{text-align: center;}
 input{
@@ -30,4 +34,7 @@ button{
   border-radius: 10px;
   border: none;
   background-color: grey;
+}
+a{
+  text-decoration: none;
 }
