@@ -3,6 +3,7 @@ body{
 }
 p{
   text-indent: 20px;
+  color: rgba(0, 0, 0, 0.795);
 }
 figure{
   display: inline-block;
@@ -19,10 +20,17 @@ footer{
   text-align: center;
 }
 h1{
+  color: rgb(165, 33, 222);
   text-align: center;
   text-decoration: underline;
 }
-h2{text-align: center;}
+h2{text-align: center;
+  color: rgba(132, 75, 156, 0.755);
+}
+h3 {
+  color: rgb(234, 163, 11);
+  
+}
 input{
   cursor: pointer;
 }
