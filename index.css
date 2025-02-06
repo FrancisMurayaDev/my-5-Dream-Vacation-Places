@@ -50,3 +50,8 @@ a{
 figure{
 margin: 0%;
 }
+figcaption{
+  font-size: small;
+  color: rgb(7, 60, 220);
+}
+
