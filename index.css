@@ -4,6 +4,7 @@ body{
 p{
   text-indent: 20px;
   color: rgba(0, 0, 0, 0.795);
+  margin: 30px;
 }
 figure{
   display: inline-block;
