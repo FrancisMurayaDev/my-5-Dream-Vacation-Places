@@ -35,7 +35,7 @@ h3 {
 input{
   cursor: pointer;
 }
-button{
+btn{
   margin-top: 20px;
   margin-left: 40px;
   color: white;
@@ -80,4 +80,10 @@ body {
 	100% {
 		background-position: 0% 50%;
 	}
+}
+.scroll-btn{
+  position: fixed;
+  bottom: 30px;
+  right: 10px;
+
 }
