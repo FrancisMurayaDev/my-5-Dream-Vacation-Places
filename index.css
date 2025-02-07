@@ -23,7 +23,7 @@ footer{
 h1{
   color: rgb(165, 33, 222);
   text-align: center;
-  text-decoration: underline;
+  text-decoration: none;
 }
 h2{text-align: center;
   color: rgba(132, 75, 156, 0.755);
@@ -42,7 +42,7 @@ input{
   font-size: 20px;
   border-radius: 10px;
   border: none;
-  background-color: grey;
+  background-color: rgb(243, 25, 25);
 }
 a{
   text-decoration: none;
@@ -85,5 +85,6 @@ body {
   position: fixed;
   bottom: 30px;
   right: 10px;
+  
 
 }
