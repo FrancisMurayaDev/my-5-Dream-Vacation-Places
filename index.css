@@ -64,9 +64,9 @@ figcaption{
   margin-left: 40px;
 }
 body {
-	background: linear-gradient(-45deg, #fcdbce, #edc8c8, #e5eaec, #f0f4f3);
+	background: linear-gradient(-45deg, #fcdbce, #f2eeee, #e5eaec, #f0f4f3);
 	background-size: 400% 400%;
-	animation: gradient 15s ease infinite;
+	animation: gradient 7s ease infinite;
 	height: 100vh;
 }
 
