@@ -54,6 +54,12 @@ figcaption{
   font-size: small;
   color: rgb(7, 60, 220);
 }
-.form{
-  margin-left: 40%;
+.mb{
+  margin-bottom: 0%;
+}
+.mt{
+  margin-top: 0%;
+}
+.ml{
+  margin-left: 40px;
 }
