@@ -35,7 +35,7 @@ h3 {
 input{
   cursor: pointer;
 }
-btn{
+.btn{
   margin-top: 20px;
   margin-left: 40px;
   color: white;
