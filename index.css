@@ -52,6 +52,7 @@ margin: 0%;
 }
 figcaption{
   font-size: small;
+  font-weight: 600;
   color: rgb(7, 60, 220);
 }
 .mb{
