@@ -89,3 +89,17 @@ body {
   
 
 }
+
+.vacation-list {
+  list-style: none;
+  text-decoration: none;
+  display: flex;
+  justify-content: space-around;
+  justify-items: center;
+  flex-wrap: wrap;
+}
+
+.vacation-list li {
+  color: grey;
+  font-weight: bolder;
+}
