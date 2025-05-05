@@ -1,41 +1,41 @@
-body{
+body {
   background-color: aliceblue;
 }
-p{
+p {
   text-indent: 20px;
   color: rgba(0, 0, 0, 0.795);
   margin: 30px;
 }
-figure{
+figure {
   display: inline-block;
   gap: 1px;
 }
-img{
+img {
   height: 200px;
 }
-.news-letter{
+.news-letter {
   margin-left: 30px;
   margin-bottom: 20px;
 }
-footer{
+footer {
   text-align: center;
 }
-h1{
+h1 {
   color: rgb(165, 33, 222);
   text-align: center;
   text-decoration: none;
 }
-h2{text-align: center;
+h2 {
+  text-align: center;
   color: rgba(132, 75, 156, 0.755);
 }
 h3 {
   color: rgb(234, 11, 11);
-  
 }
-input{
+input {
   cursor: pointer;
 }
-.btn{
+.btn {
   margin-top: 20px;
   margin-left: 40px;
   color: white;
@@ -44,50 +44,48 @@ input{
   border: none;
   background-color: rgb(53, 52, 52);
 }
-a{
+a {
   text-decoration: none;
 }
-figure{
-margin: 0%;
+figure {
+  margin: 0%;
 }
-figcaption{
+figcaption {
   font-size: small;
   font-weight: 600;
   color: rgb(7, 60, 220);
 }
-.mb{
+.mb {
   margin-bottom: 0%;
 }
-.mt{
+.mt {
   margin-top: 0%;
 }
-.ml{
+.ml {
   margin-left: 40px;
 }
 body {
-	background: linear-gradient(-45deg, #fcdbce, #f2eeee, #e5eaec, #f0f4f3);
-	background-size: 400% 400%;
-	animation: gradient 7s ease infinite;
-	height: 100vh;
+  background: linear-gradient(-45deg, #fcdbce, #f2eeee, #e5eaec, #f0f4f3);
+  background-size: 400% 400%;
+  animation: gradient 7s ease infinite;
+  height: 100vh;
 }
 
 @keyframes gradient {
-	0% {
-		background-position: 0% 50%;
-	}
-	50% {
-		background-position: 100% 50%;
-	}
-	100% {
-		background-position: 0% 50%;
-	}
+  0% {
+    background-position: 0% 50%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+  100% {
+    background-position: 0% 50%;
+  }
 }
-.scroll-btn{
+.scroll-btn {
   position: fixed;
   bottom: 30px;
   right: 10px;
-  
-
 }
 
 .vacation-list {
